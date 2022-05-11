@@ -4,5 +4,9 @@
 
 *备注：没有开额外的处理线程，仅简单的制作的一个Qt应用，方便小白们一键处理文件，也供Pyside6入门学习。如果后期有需求反响，会考虑完善代码。
 
+###系统运行要求
+①Window系统
+②Microsoft Word
+
 ##环境配置
     pip install -r requirement
